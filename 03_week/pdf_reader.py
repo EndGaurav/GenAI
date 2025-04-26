@@ -14,7 +14,7 @@ client = OpenAI(
 )
 
 # Ask for the file path
-user_file_path = input("Enter the path to your file: ")
+file_path = input("Enter the path to your file: ")
 
 def extract_txt():
     with open(file_path, 'rb') as file:
