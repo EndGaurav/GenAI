@@ -1,4 +1,5 @@
-./01_week/1.1_class/.venv
-./01_week/1.2_class/.venv
+01_week/1.1_class/.venv
+01_week/1.2_class/.venv
 03_week/.env
-./04_week/.env
+04_week/.env
+05_week/.env
